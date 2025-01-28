@@ -3,8 +3,8 @@
     "update_code": "5",
     "reminder_time": "3",
     "update_version": "v9.61",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.instagold.android": "https://instagold.download/update",
+    "com.instagram.android": "https://t.me/AnasMalikDev",
+    "com.instagold.android": "https://t.me/AnasMalikDev",
     "update_message": "
 <p>Update Vتحديث 9.60</p>
 <li>تحديث قاعدة انستقرام الى 357.1.0.52.100</li>
