@@ -1,0 +1,33 @@
+{
+  "Gold": {
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_version": "v9.61",
+    "com.instagram.android": "https://instagold.download/update",
+    "com.instagold.android": "https://instagold.download/update",
+    "update_message": "
+<p>Update Vتحديث 9.60</p>
+<li>تحديث قاعدة انستقرام الى 357.1.0.52.100</li>
+<li>اضافة تغير ايموجي الايفون بطريقه جديده (اضافات انستقرام انس > السمه وواجة المستخدم)</li>
+<li>اضافة حزمة جديده باسم joy Pixel في الايموجي</li>
+<li>اضافة ميزة تغير خط القصص</li>
+<li>اضافة تغير ايموجي القصص</li>
+<li>تحسين شكل الاضافات</li>
+<li>تفعيل دردشة الذكاء الاصطناعي</li>
+<li>اصلاح مشكلة عدم فتح المحادثات وظهور شاشة تحديث انستقرام</li>
+<li>اصلاح جميع مشاكل الانهيارات</li>
+<li>إصلاحات اخرى</li>
+
+<li>Updated Instagram base to 357.1.0.52.100</li>
+<li>Added a new method to change iPhone emojis (Themes and UI)</li>
+<li>Added a new emoji pack named Joy Pixel</li>
+<li>Added a feature to change the font of stories</li>
+<li>Added the option to change story emojis</li>
+<li>Improved the appearance of features</li>
+<li>Enabled AI chat functionality</li>
+<li>Fixed the issue of conversations not opening and the Instagram update screen appearing</li>
+<li>Fixing all crash issues</li>
+<li>Other fixes</li>
+"
+    }
+}
